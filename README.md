@@ -1,0 +1,2 @@
+# Schoolism
+Schoolism, a School Recommendation System for new migrants coming to Victoria who wants to find school for their kid(s). Schoolism allows users to search for, compare and get recommendation for schools in Victoria. Users can provide various priorities regarding choosing a school like location, travel time and mode to school, cost of living in the suburb where the school is, etc. and Schoolism will provide the users with list of recommended schools that satisfies the user's needs
